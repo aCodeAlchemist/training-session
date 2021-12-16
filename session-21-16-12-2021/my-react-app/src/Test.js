@@ -94,9 +94,10 @@ export default class Test extends Component {
                 </div>
 
                 <div class="container mt-3 p-3">
+                 <div class="row">
                     <h2>image related data Table</h2>
                  
-                    
+                   
                     <div class="table-responsive">
                         <table class="table table-bordered">
                         <thead>
@@ -128,7 +129,9 @@ export default class Test extends Component {
                             </tr>
                         </tbody>
                         </table>
-  </div>
+                        </div>
+                    </div>               
+                </div>
 </div>
             </div>
             </div>           
