@@ -96,7 +96,10 @@ export default class Test extends Component {
                 <div class="container mt-3 p-3">
                  <div class="row">
                     <h2>image related data Table</h2>
-                 
+
+                    <div class="alert alert-success">
+                        <strong>Success!</strong> You should <a href="#" class="alert-link">read this message</a>.
+                    </div>
                    
                     <div class="table-responsive">
                         <table class="table table-bordered">
