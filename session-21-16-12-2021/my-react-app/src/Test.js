@@ -121,7 +121,7 @@ export default class Test extends Component {
                             <td>200</td>
                             <td>350</td>
                             <td>125</td>
-                            <td>phjotographer</td>
+                            <td>photographer</td>
                             <td>yes</td>
                             <td>yes</td>
                             
@@ -132,7 +132,7 @@ export default class Test extends Component {
                         </div>
                     </div>               
                 </div>
-</div>
+           
             </div>
             </div>           
       )
